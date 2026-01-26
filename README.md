@@ -1,17 +1,30 @@
-# Query-Schema-Lab 🗂️🖥️
+# SQL Query & Logic Mastery Lab 🗄️
 
-## Description 📝
-Learn SQL with complex queries and visualize database schemas. 📊
+This repository is a showcase of advanced database querying capabilities. It moves beyond standard SQL to tackle **complex logic, data correlation, and high-performance analytical challenges.**
 
-## Content 📂
-- **SQL Queries** 💻  
-  Each database backup in the folder has its own `.sql` file containing complex queries to improve my SQL skills.  
-  Currently, there are two database backup files and two `.sql` files.
+## 🧠 Featured: Advanced Problem-Solving Suite
+The core of my SQL expertise is demonstrated through an intensive suite of **45+ complex analytical problems** (found in the `SQL-Queries` directory). These aren't just queries; they are logical puzzles solved using optimized SQL.
 
-- **Schema** 🏗️  
-  Each folder contains a `.drawio` file created with the draw.io program, along with an image of the final diagram. 🖼️
+### 🛠️ Technical Depth & Complexity:
+Instead of basic CRUD, this suite demonstrates mastery in:
+
+* **Multi-Level Subqueries & Nesting:** Implementing deep nested logic to extract specific data points that require multiple stages of filtration (e.g., identifying extremes like Max/Min counts within aggregated sets).
+* **Complex Relational Joins:** Seamlessly correlating data across multiple tables (Makes, Models, Details) to reconstruct complex business entities.
+* **Advanced Data Aggregation:** Beyond simple `SUM` or `COUNT`, utilizing `GROUP BY` and `HAVING` with complex predicates to derive percentages, market shares, and production trends.
+* **Conditional Logic & Formatting:** Using sophisticated filtering (`LIKE`, `BETWEEN`, `IN`) combined with logical operators to handle massive datasets with precision.
+
+### 📈 Why this matters?
+The queries implemented here prove the ability to:
+1.  **Translate Complex Business Requirements** into efficient SQL code.
+2.  **Handle High-Volume Data** by writing optimized queries that reduce execution overhead.
+3.  **Perform Data Mining:** Extracting actionable insights from raw, unorganized relational data.
 
 ---
 
-> This repository is a personal lab for learning, experimenting, and mastering SQL queries and database structures.  
-> Feel free to explore, learn, and get inspired! 🚀
+## 🏗️ Project Structure
+- **/SQL-Queries:** Contains the primary engine of this lab—a script with 45+ advanced problems that serve as a "stress test" for SQL logic.
+- **/Schema-Design:** Detailed relational modeling and normalization strategies.
+
+## 🛠️ Tech Stack
+- **Engine:** Microsoft SQL Server (SQL)
+- **Tooling:** SQL Server Management Studio (SSMS)
