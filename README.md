@@ -2,7 +2,7 @@
 
 This repository is a showcase of advanced database querying capabilities. It moves beyond standard SQL to tackle **complex logic, data correlation, and high-performance analytical challenges.**
 
-## 🧠 Featured: Advanced Problem-Solving Suite
+## 🧠 Featured: Advanced Problem-Solving Suite 
 The core of my SQL expertise is demonstrated through an intensive suite of **45+ complex analytical problems** (found in the `SQL-Queries` directory). These aren't just queries; they are logical puzzles solved using optimized SQL.
  
 ### 🛠️ Technical Depth & Complexity:
