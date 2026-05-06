@@ -6,7 +6,7 @@ This repository is a showcase of advanced database querying capabilities. It mov
 The core of my SQL expertise is demonstrated through an intensive suite of **45+ complex analytical problems** (found in the `SQL-Queries` directory). These aren't just queries; they are logical puzzles solved using optimized SQL.
  
 ### 🛠️ Technical Depth & Complexity:
-Instead of basic CRUD, this suite demonstrates mastery in:
+Instead of basic CRUD, this suite demonstrates mastery in: 
 
 * **Multi-Level Subqueries & Nesting:** Implementing deep nested logic to extract specific data points that require multiple stages of filtration (e.g., identifying extremes like Max/Min counts within aggregated sets).
 * **Complex Relational Joins:** Seamlessly correlating data across multiple tables (Makes, Models, Details) to reconstruct complex business entities.
